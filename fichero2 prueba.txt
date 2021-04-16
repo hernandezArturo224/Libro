@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 HOALHOLAHOLA
 
+=======
+develop prueba 2
+>>>>>>> develop
